@@ -1,16 +1,16 @@
 {
     "server_name": "EvilsMC",
     "nice_name": "EvilsMC Community",
-    "direct_ip": "EvilsMC.com",
+    "direct_ip": "evilsmc.com",
     "server_wildcards": [
       "%.evilsmc.com"
     ],
     "social": {
       "web_shop": "https://evilsmc.tebex.io",
-      "twitter": "EvilsMCOfficial",
-      "discord": "https://discord.gg/evilsmc",
       "web": "https://www.evilsmc.com",
-      "tiktok": "EvilsMCOfficial"
+      "twitter": "EvilsMCOfficial",
+      "tiktok": "EvilsMCOfficial",
+      "discord": "https://discord.gg/evilsmc"
     },
     "brand": {
       "background": "#FFAA00",
